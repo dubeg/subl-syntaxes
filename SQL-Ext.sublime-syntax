@@ -1,6 +1,6 @@
 %YAML 1.2
 ---
-name: SQL
+name: SQL-Ext
 file_extensions:
   - sql
   - sql.results
